@@ -15,7 +15,7 @@ This portfolio is built with **Next.js** and a library called [Nextra](https://n
 1. Update the meta tags in `pages/_document.js`.
 1. Update the posts inside `pages/posts/*.md` with your own content.
 
-## Deploy your own
+<!-- ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
@@ -31,4 +31,4 @@ npx create-next-app --example blog my-blog
 yarn create next-app --example blog my-blog
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)). -->
